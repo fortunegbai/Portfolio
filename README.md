@@ -4,20 +4,21 @@
 
 My journey blends data analysis, customer research, sales, and hands-on customer service, giving me a front-row seat to how people think, feel, and decide. I believe great products start with understanding real human needs, and delivering solutions that truly fit.
 
-In this portfolio, you’ll see how I connect the dots between business strategy, user behavior, and product design to solve practical problems and create better experiences for people.
+In this portfolio, you’ll see how I connect the dots between business strategy, user behavior, and product thinking to solve practical problems and create better experiences for people.
 
 
 ## Case Studies
-- [Wise Usability Test](https://github.com/fortunegbai/Wise-Usability-Test)  
-  *A usability study of the Wise app for Nigerian users, revealing UX pain points and actionable product recommendations.*
 
-- [Microsoft Clarity Report](https://github.com/fortunegbai/Microsoft_Clarity_Report)  
-  *A deep dive into Microsoft Clarity demo data, translating user interactions into clear insights and actionable ideas for enhancing digital products.* 
+### 2025-05: [Microsoft Clarity Report](https://github.com/fortunegbai/Microsoft_Clarity_)  
+ - *A deep dive into Microsoft Clarity demo data, translating user interactions into clear insights and actionable ideas for enhancing digital products.* 
 
-  
+### 2025-04: [Wise Usability Test](https://github.com/fortunegbai/Wise-Usability-Test)  
+ - *A usability study of the Wise app for Nigerian users, revealing UX pain points and actionable product recommendations.*
+
+
 ## Analytics / Product Projects
-- [Global Superstore Project](https://github.com/fortunegbai/Global_Superstore)  
-  *I analyzed global retail data to improve profitability, uncovering insights into sales trends, product performance, and profit drivers.*
+### 2025-01: [Global Superstore Project](https://github.com/fortunegbai/Global_Superstore)  
+ - *I analyzed global retail data to improve profitability, uncovering insights into sales trends, product performance, and profit drivers.*
 
 ## 📫 Let’s Connect
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/fortuneegbai)
