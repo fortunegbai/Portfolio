@@ -21,7 +21,7 @@ In this portfolio, you’ll see how I connect the dots between business strategy
  - *I analyzed global retail data to improve profitability, uncovering insights into sales trends, product performance, and profit drivers.*
 
 ## ProductPulse Quick Case
-### 2025-07: [Coldplay Kiss-Cam Saga]()  
+### 2025-07: [Coldplay Kiss-Cam Saga](https://github.com/fortunegbai/ColdPlay_KissCam_Incident)  
 - *A rapid UX and content flow analysis of TikTok's role in escalating a viral concert clip into a global controversy, spotlighting friction in content labeling, user interpretation, and platform responsibility.*
 
 
