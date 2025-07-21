@@ -20,6 +20,11 @@ In this portfolio, you’ll see how I connect the dots between business strategy
 ### 2025-01: [Global Superstore Project](https://github.com/fortunegbai/Global_Superstore)  
  - *I analyzed global retail data to improve profitability, uncovering insights into sales trends, product performance, and profit drivers.*
 
+## ProductPulse Quick Case
+### 2025-07: [Coldplay Kiss-Cam Saga]()  
+- *A rapid UX and content flow analysis of TikTok's role in escalating a viral concert clip into a global controversy, spotlighting friction in content labeling, user interpretation, and platform responsibility.*
+
+
 ## 📫 Let’s Connect
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/fortuneegbai)
 - **Email:** [contactfortuneegbai@gmail.com](mailto:contactfortuneegbai@gmail.com)
