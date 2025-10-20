@@ -14,13 +14,16 @@ In this portfolio, you’ll see how I connect the dots between business strategy
 
 ### 2025-04: [Wise Usability Test](https://github.com/fortunegbai/Wise-Usability-Test)  
  - *A usability study of the Wise app for Nigerian users, revealing UX pain points and actionable product recommendations.*
-
+   
 
 ## Analytics / Product Projects
 ### 2025-01: [Global Superstore Project](https://github.com/fortunegbai/Global_Superstore)  
- - *I analyzed global retail data to improve profitability, uncovering insights into sales trends, product performance, and profit drivers.*
+ - *I analyzed global retail data to uncover sales trends, product performance patterns, and key profit drivers that inform business decisions.*
 
-## ProductPulse Quick Case
+
+## ProductPulse | Thought Leadership
+Short write-ups on ethics, user empathy, product controversies, and UX reflections.
+
 ### 2025-07: [Coldplay Kiss-Cam Saga](https://github.com/fortunegbai/ColdPlay_KissCam_Incident)  
 - *A rapid UX and content flow analysis of TikTok's role in escalating a viral concert clip into a global controversy, spotlighting friction in content labeling, user interpretation, and platform responsibility.*
 
