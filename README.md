@@ -30,6 +30,7 @@ Short write-ups on ethics, user empathy, product controversies, and UX reflectio
 
 ## 📫 Let’s Connect
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/fortuneegbai)
+- **Medium:** [Profile](https://medium.com/@contactfortuneegbai)
 - **Email:** [contactfortuneegbai@gmail.com](mailto:contactfortuneegbai@gmail.com)
 
 
