@@ -9,7 +9,7 @@ In this portfolio, you’ll see how I connect the dots between business strategy
 
 ## Case Studies
 
-### 2025-05: [Where PLG Homepages Lose Users: A Microsoft Clarity Acquisition-Funnel Analysis](https://github.com/fortunegbai/Where PLG Homepages Lose Users: A Microsoft Clarity Acquisition-Funnel Analysis)
+### 2025-05: [Where PLG Homepages Lose Users: A Microsoft Clarity Acquisition-Funnel Analysis](https://github.com/fortunegbai/Where-PLG-Homepages-Lose-Users-A-Microsoft-Clarity-Acquisition-Funnel-Analysis)
  - *A heatmap and session-replay analysis of Microsoft Clarity's own homepage, tracing where 45,221 clicks landed and where visitors tried to act but got nothing back, then turning those patterns into two prioritized product decisions, a metrics plan, and a statistically sized A/B test.*
 
 ### 2025-04: [Wise Usability Test](https://github.com/fortunegbai/Wise-Usability-Test)  
