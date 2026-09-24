@@ -9,8 +9,8 @@ In this portfolio, you’ll see how I connect the dots between business strategy
 
 ## Case Studies
 
-### 2025-05: [Microsoft Clarity Report](https://github.com/fortunegbai/Microsoft_Clarity_Report)
- - *A deep dive into Microsoft Clarity demo data, translating user interactions into clear insights and actionable ideas for enhancing digital products.* 
+### 2025-05: [Where PLG Homepages Lose Users: A Microsoft Clarity Acquisition-Funnel Analysis](https://github.com/fortunegbai/Where PLG Homepages Lose Users: A Microsoft Clarity Acquisition-Funnel Analysis)
+ - *A heatmap and session-replay analysis of Microsoft Clarity's own homepage, tracing where 45,221 clicks landed and where visitors tried to act but got nothing back, then turning those patterns into two prioritized product decisions, a metrics plan, and a statistically sized A/B test.*
 
 ### 2025-04: [Wise Usability Test](https://github.com/fortunegbai/Wise-Usability-Test)  
  - *A usability study of the Wise app for Nigerian users, revealing UX pain points and actionable product recommendations.*
